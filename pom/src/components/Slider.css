@@ -1,0 +1,32 @@
+.slider_work {
+
+height: 40px;
+border: 2px solid red;
+border-radius: 20px;
+
+}
+
+.slider_break {
+    height: 40px;
+    border: 2px solid green;
+    border-radius: 20px;
+}
+
+
+.thumb_work {
+    background-color: red;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+
+.thumb_break {
+    background-color: green;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+}
